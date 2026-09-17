@@ -1,0 +1,7 @@
+{
+  "name": "The Straits Times",
+  "description": "Singapore and world news portal with breaking headlines, editorial opinions, and multimedia visual stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
